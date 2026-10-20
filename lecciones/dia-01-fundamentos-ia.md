@@ -43,18 +43,52 @@ Respuesta: Es una rama de la informática que desarrolla sistemas capaces de rea
 
 Respuesta: Para generar contenido, analizar información, reconocer imágenes, resolver problemas y ayudar en tareas de programación, entre otros usos.
 
-## 7. Reflexión personal
+## ## 7. Limitaciones y uso responsable de la IA
+
+### Modelos de lenguaje
+
+Los modelos de lenguaje procesan texto y generan respuestas utilizando patrones aprendidos y el contexto de la conversación. Una respuesta probable no significa necesariamente que sea verdadera.
+
+### Tokens
+
+Los tokens son unidades de texto que un modelo procesa. Pueden representar palabras completas, partes de palabras o signos de puntuación.
+
+### Alucinaciones de la IA
+
+Una alucinación ocurre cuando la IA genera información incorrecta o inventada y puede presentarla como si fuera verdadera. Por eso, debemos verificar la información y consultar fuentes confiables cuando sea necesario.
+
+### Protección de datos
+
+No debemos compartir contraseñas, claves secretas de API, números de tarjetas bancarias ni otros datos sensibles. En proyectos de programación, debemos proteger las claves secretas y evitar publicarlas en repositorios públicos.
+
+### Verificación del código
+
+Cuando una IA genera código, debemos:
+
+1. Leer y comprender la solución.
+2. Ejecutarla en un entorno seguro.
+3. Probar distintos casos.
+4. Comprobar que los resultados sean los esperados.
+
+## 8. Reflexión personal
 
 ### ¿Qué fue lo más importante que aprendí?
-Aprendí qué es la Inteligencia Artificial y conocí algunas de sus aplicaciones, como generar contenido, reconocer imágenes y ayudar a programar.
+
+Aprendí que la inteligencia artificial puede ayudarme a estudiar, programar y resolver problemas, pero sus respuestas pueden contener errores.
 
 ### ¿Qué concepto necesito repasar?
-Quiero profundizar en las diferencias entre Machine Learning, Deep Learning e IA generativa.
+
+Quiero profundizar en las diferencias entre Machine Learning, Deep Learning e IA generativa, así como comprender mejor los tokens y los modelos de lenguaje.
 
 ### ¿Cómo puedo utilizar la IA en mis proyectos?
-Puedo aprender a integrar herramientas de IA en aplicaciones web y utilizarla como apoyo para desarrollar proyectos de programación.
 
-## 8. Próximos pasos
+Puedo utilizarla para aprender programación, comprender código, encontrar errores y desarrollar proyectos web, verificando siempre las soluciones.
 
-Continuar estudiando los fundamentos de IA, los modelos de lenguaje y el aprendizaje automático.
+## 9. Próximos pasos
 
+Continuar con el Día 2 del curso, estudiando conceptos nuevos sin repetir los fundamentos del Día 1.
+
+## Estado del curso
+
+- [x] Día 1: Fundamentos de Inteligencia Artificial
+- [ ] Día 2: Pendiente
