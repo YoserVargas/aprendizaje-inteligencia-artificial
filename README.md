@@ -24,7 +24,7 @@ Repositorio personal donde documento mi aprendizaje de Inteligencia Artificial d
 - [x] Día 1: Introducción y fundamentos de Inteligencia Artificial
 - [x] Día 2: Cómo aprende la IA
 - [x] Día 3: Ingeniería de prompts
-- [ ] Día 4: Herramientas de Inteligencia Artificial
+- [x] Día 4: Herramientas de Inteligencia Artificial
 - [ ] Día 5: Aplicaciones y flujos de trabajo con IA
 - [ ] Día 6: Introducción a las aplicaciones de IA en programación
 - [ ] Día 7: Uso de IA para resolver problemas de código
