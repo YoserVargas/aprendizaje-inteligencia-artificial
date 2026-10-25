@@ -28,7 +28,7 @@ Repositorio personal donde documento mi aprendizaje de Inteligencia Artificial d
 - [x] Día 5: Aplicaciones de IA y flujos de trabajo
 - [x] Día 6: Aplicaciones de IA en programación
 - [x] Día 7: Resolución de problemas de código con IA
-- [ ] Día 8: Desarrollo de un proyecto práctico
+- [x] Día 8: Desarrollo de un proyecto práctico
 - [ ] Día 9: Mejora y evaluación del proyecto
 - [ ] Día 10: Repaso y conclusiones del curso
 
