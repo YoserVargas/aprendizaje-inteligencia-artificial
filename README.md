@@ -30,7 +30,7 @@ Repositorio personal donde documento mi aprendizaje de Inteligencia Artificial d
 - [x] Día 7: Resolución de problemas de código con IA
 - [x] Día 8: Desarrollo de un proyecto práctico
 - [x] Día 9: Mejora y evaluación del proyecto
-- [ ] Día 10: Repaso y conclusiones del curso
+- [x] Día 10: Repaso y conclusiones del curso
 
 ## Metodología
 
